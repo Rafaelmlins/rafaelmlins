@@ -1,7 +1,11 @@
 <svg width="240" height="180" viewBox="0 0 240 180" xmlns="http://www.w3.org/2000/svg">
 <rect width="240" height="180" rx="24" fill="#0b0b10"/>
+<g>fill="none" stroke="#c9b8ff</g>
 <ellipse cx="120" cy="90" rx="82" ry="30" transform="rotate(-18 120 90)"/>
 <ellipse cx="120" cy="90" rx="60" ry="72" transform="rotate(35 120 90)" opacity=".5"/>
 </g><circle cx="120" cy="90" r="27" fill="#c9b8ff"/>
 <circle cx="128" cy="82" r="8" fill="#0b0b10" opacity=".35"/>
 </svg>
+
+@@ -0,0 +1,8 @@<svg width="240" height="180" viewBox="0 0 240 180" xmlns="http://www.w3.org/2000/svg"><rect width="240" height="180" rx="24" fill="#0b0b10"/><g fill="none" stroke="#c9b8ff" stroke-width="2"><ellipse cx="120" cy="90" rx="82" ry="30" transform="rotate(-18 120 90)"/><ellipse cx="120" cy="90" rx="60" ry="72" transform="rotate(35 120 90)" opacity=".5"/></g><circle cx="120" cy="90" r="27" fill="#c9b8ff"/><circle cx="128" cy="82" r="8" fill="#0b0b10" opacity=".35"/></svg>
+0 commit commentsComments0
