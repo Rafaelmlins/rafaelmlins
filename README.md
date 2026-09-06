@@ -1,53 +1,44 @@
+<div align="center">
 
-<img src="./assets//header1.png/" width="100%" alt="Rafael — Computer Science">
+<img src="./assets/header.svg" width="100%" alt="Rafael — Computer Science">
 
 <br>
 
-# RAFAEL
-
-`computer science undergraduate`
-
-*software · design · curiosity*
+[![Java](https://img.shields.io/badge/Java-0b0b10?style=flat-square&logo=openjdk&logoColor=c9b8ff)](#)
+[![Python](https://img.shields.io/badge/Python-0b0b10?style=flat-square&logo=python&logoColor=c9b8ff)](#)
+[![Web](https://img.shields.io/badge/Web-0b0b10?style=flat-square&logo=html5&logoColor=c9b8ff)](#)
+[![Git](https://img.shields.io/badge/Git-0b0b10?style=flat-square&logo=git&logoColor=c9b8ff)](#)
 
 </div>
 
-<br>
+---
+
+# ✦ ABOUT ME
+
+I'm a **Computer Science undergraduate** focused on building practical solutions and growing as a developer.
+
+I enjoy understanding how things work, solving problems and turning ideas into real projects.
+
+### currently exploring
+
+`Java` · `Python` · `Web Development` · `Git` · `UI/UX` · `Design` · `AI`
 
 ---
 
-## ✦ ABOUT ME
-
-I'm a Computer Science undergraduate focused on
-building practical solutions and growing as a developer.
-
-I enjoy understanding how things work,
-solving problems and turning ideas into real projects.
-
-Currently exploring:
-
-`Java` · `Python` · `Web Development` · `Git`
-
-<br>
-
----
-
-## ✧ PROJECTS
+# ✦ PROJECTS
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### ⟡ eco-radar
+### ◇ eco-radar
 
-Environmental monitoring platform
-developed as a university project.
+Environmental monitoring platform developed as a university project.
 
-**Stack**
+**stack**
 
-`HTML` `CSS` `JavaScript`
-
-[→ repository](https://github.com/Rafaelmlins/eco-radar-platform)
+`Python` `Arduino` `Web`
 
 </td>
 
@@ -55,14 +46,11 @@ developed as a university project.
 
 ### ⌘ calculadora
 
-A simple calculator created
-while studying Java fundamentals.
+A simple calculator created while studying Java fundamentals.
 
-**Stack**
+**stack**
 
-`Java`
-
-[→ repository](https://github.com/Rafaelmlins/calculadora-simples)
+`Java` `Swing`
 
 </td>
 
@@ -70,100 +58,31 @@ while studying Java fundamentals.
 
 ### ◇ aula30
 
-Study project focused on
-HTML structure and web development.
+Study project focused on HTML structure and web development.
 
-**Stack**
+**stack**
 
-`HTML`
-
-[→ repository](https://github.com/Rafaelmlins/aula30)
+`HTML` `CSS` `JavaScript`
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
 ---
 
-## ✦ CURRENTLY LEARNING
+# ✦ NOW
 
-<table>
-<tr>
+```text
+building     → practical software
+learning     → Python + Java
+exploring    → web + design + AI
+collecting   → strange little ideas
+<br> <div align="center">
+software · design · curiosity
 
-<td width="50%" valign="top">
+same ideas, different universe.
 
-### Computer Science
-
-- Data Structures
-- Algorithms
-- Object-Oriented Programming
-- Software Engineering
-
-</td>
-
-<td width="50%" valign="top">
-
-### Development
-
-- Java
-- Python
-- Web Development
-- Git & GitHub
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
-
-## ✧ TECH STACK
-
-<div align="center">
-
-| Language | Tools | Web |
-|:---:|:---:|:---:|
-| Java | Git | HTML |
-| Python | GitHub | CSS |
-| JavaScript | VS Code | JavaScript |
-
-</div>
-
-<br>
-
----
-
-## ✦ CONTRIBUTIONS
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Rafaelmlins&show_icons=true&hide_border=true&theme=dark"
-  width="48%"
-/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Rafaelmlins&theme=dark&hide_border=true"
-  width="48%"
-/>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-✦ ───────────────────────────── ✦
-
-**focused · curious · always learning**
-
-✦ ───────────────────────────── ✦
+✦
 
 </div>
