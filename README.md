@@ -51,7 +51,7 @@ Currently building my foundation in software while exploring **Python, Java, Web
 
 </div>
 
-> **Eco-Radar** is an environmental monitoring platform developed as a university project.
+> **Eco-Radar** is an environmental monitoring platform developed as a first university project.
 
 The project connects **Arduino hardware** with a web interface to collect and visualize environmental information.
 
