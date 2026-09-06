@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Rafael — Computer Science">
+<img src="./assets/header1.png" width="100%" alt="Rafael — Computer Science">
 
 <br>
 
