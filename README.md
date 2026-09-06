@@ -1,5 +1,5 @@
 
-<img src="./assets/banner.png" width="100%" alt="Rafael — Computer Science">
+<img src="./assets/banner.png/header1.png/" width="100%" alt="Rafael — Computer Science">
 
 <br>
 
