@@ -1,12 +1,10 @@
 <div align="center">
-  
-<img src="assets/banner.png/header1.svg" width="100%" alt="Rafael — Computer Science">
 
-<img src="./assets/header.gif" width="100%" alt="Rafael — Computer Science">
+<img src="./assets/header.gif" width="100%" alt="Hi, I'm Rafael">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=C9B8FF&center=true&vCenter=true&width=500&lines=software+%C2%B7+design+%C2%B7+curiosity;building+things+that+feel+useful;exploring+the+space+between+code+%26+design" alt="Animated introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2800&pause=900&color=C9B8FF&center=true&vCenter=true&width=620&lines=software+%C2%B7+design+%C2%B7+curiosity;building+things+that+feel+useful;exploring+the+space+between+code+%26+design" alt="Animated text">
 
 <br><br>
 
@@ -17,29 +15,25 @@
 
 </div>
 
-<br>
-
 ---
 
 <div align="center">
 
-### ✦ ABOUT ME
+# ✦ ABOUT ME
 
 </div>
 
-I'm a **Computer Science undergraduate** interested in the intersection between software, design and technology.
+I'm a **Computer Science undergraduate** interested in the intersection between **software, design and technology**.
 
 I like understanding how things work, solving problems and turning ideas into things that actually exist.
 
-I'm currently building my foundation in software while exploring **Python, Java, Web Development, AI and UI/UX.**
-
-<br>
+Currently building my foundation in software while exploring **Python, Java, Web Development, AI and UI/UX.**
 
 <div align="center">
 
-`software`　·　`design`　·　`curiosity`
+`software` · `design` · `curiosity`
 
-✦
+<img src="./assets/stars.gif" width="240" alt="animated stars">
 
 </div>
 
@@ -47,33 +41,11 @@ I'm currently building my foundation in software while exploring **Python, Java,
 
 <div align="center">
 
-### ◌ CURRENTLY EXPLORING
-
-<br>
-
-`JAVA`　`PYTHON`　`WEB DEVELOPMENT`　`GIT`　`UI/UX`　`DESIGN`　`AI`
-
-<br><br>
-
-<img src="./assets/stars.gif" width="180">
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-# ✦ ECO-RADAR
+# ◌ ECO-RADAR
 
 ### environmental monitoring · university project
 
-<br>
-
-<img src="./assets/ecoradar.gif" width="90%" alt="Eco-Radar animated demonstration">
-
-<br><br>
+<img src="./assets/ecoradar.gif" width="92%" alt="Eco-Radar animated interface">
 
 </div>
 
@@ -85,7 +57,6 @@ The project connects **Arduino hardware** with a web interface to collect and vi
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### ◇ THE IDEA
@@ -93,23 +64,13 @@ The project connects **Arduino hardware** with a web interface to collect and vi
 Monitor environmental conditions through hardware sensors and make the collected information easier to visualize and understand.
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ◇ THE STACK
 
-`Python`
-
-`Arduino`
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
+`Python` · `Arduino` · `HTML` · `CSS` · `JavaScript`
 
 </td>
-
 </tr>
 </table>
 
@@ -117,11 +78,9 @@ Monitor environmental conditions through hardware sensors and make the collected
 
 <div align="center">
 
-<img src="./assets/orbit.svg" width="180">
+<img src="./assets/orbit.svg" width="160" alt="orbit">
 
-<br>
-
-**turning data into something you can see.**
+### *turning data into something you can see.*
 
 ✦
 
@@ -129,14 +88,18 @@ Monitor environmental conditions through hardware sensors and make the collected
 
 ---
 
-<br>
-
 <div align="center">
 
-### ✦ WHAT I'M BUILDING
+# ✦ NOW
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=2400&pause=700&color=F4F1FA&center=true&vCenter=true&width=600&lines=learning+by+building;experimenting+with+interfaces;connecting+code+and+design;turning+small+ideas+into+real+projects" alt="What I'm building">
+
+<br><br>
+
+**build · explore · learn · repeat**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2500&pause=800&color=F4F1FA&center=true&vCenter=true&width=600&lines=learning+by+building;experimenting+with+interfaces;connecting+code+and+design;turning+small+ideas+into+real+projects" alt="Currently building">
+### `same ideas, different universe.`
 
-<br><br>
+</div>
