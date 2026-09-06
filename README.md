@@ -80,7 +80,7 @@ Monitor environmental conditions through hardware sensors and make the collected
 
 <div align="center">
 
-<img src="./assets/orbit.svg" width="160" alt="orbit">
+<img src="./assets/banner.png/divider.png/orbit.svg" width="160" alt="orbit">
 
 ### *turning data into something you can see.*
 
