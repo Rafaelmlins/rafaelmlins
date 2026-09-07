@@ -30,9 +30,7 @@
 <br align="center">
 
 I'm a **Computer Science undergraduate** interested in the intersection between **software, design and technology**.
-
 I like understanding how things work, solving problems and turning ideas into things that actually exist.
-
 Currently building my foundation in software while exploring **Python, Java, Web Development, AI and UI/UX.**
 
 <br>
