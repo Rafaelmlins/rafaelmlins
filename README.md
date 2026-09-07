@@ -21,13 +21,11 @@
 
 <br><br>
 
-<table width="100%">
-<tr>
-<td width="42%"><hr></td>
-<td width="16%" align="center"><b>✦ ABOUT ME ✦</b></td>
-<td width="42%"><hr></td>
-</tr>
-</table>
+<div align="center">
+
+─────────────── ✦ ABOUT ME ✦ ───────────────
+
+</div>
 
 <br>
 
@@ -51,13 +49,11 @@ Currently building my foundation in software while exploring **Python, Java, Web
 
 <br><br>
 
-<table width="100%">
-<tr>
-<td width="42%"><hr></td>
-<td width="16%" align="center"><b>◌ ECO-RADAR ◌</b></td>
-<td width="42%"><hr></td>
-</tr>
-</table>
+<div align="center">
+
+─────────────── ◌ ECO-RADAR ◌ ───────────────
+
+</div>
 
 <br>
 
@@ -138,13 +134,11 @@ The goal is simple:
 
 <br><br>
 
-<table width="100%">
-<tr>
-<td width="42%"><hr></td>
-<td width="16%" align="center"><b>✦ NOW ✦</b></td>
-<td width="42%"><hr></td>
-</tr>
-</table>
+<div align="center">
+
+─────────────── ✦ NOW ✦ ───────────────
+
+</div>
 
 <br>
 
