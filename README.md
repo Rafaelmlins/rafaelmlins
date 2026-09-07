@@ -25,11 +25,7 @@
 
 ─────────────── ✦ ABOUT ME ✦ ───────────────
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 I'm a **Computer Science undergraduate** interested in the intersection between **software, design and technology**.
 
@@ -39,11 +35,18 @@ Currently building my foundation in software while exploring **Python, Java, Web
 
 <br><br>
 
-`software`  ·  `design`  ·  `curiosity`
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2200&pause=700&color=C9B8FF&center=true&vCenter=true&width=500&lines=%3E+initializing+curiosity...;%3E+loading+software...;%3E+exploring+design...;%3E+system+ready." alt="Animated terminal">
 
 <br><br>
 
-<img src="./assets/stars.gif" width="240" alt="animated stars">
+```text
+const interests = [
+  "software",
+  "design",
+  "technology",
+  "curiosity"
+];
+```
 
 </div>
 
@@ -72,6 +75,21 @@ Currently building my foundation in software while exploring **Python, Java, Web
 **Eco-Radar** is an environmental monitoring platform developed as a first university project.
 
 The project connects **Arduino hardware** with a web interface to collect and visualize environmental information.
+
+<br>
+
+```text
+┌─ ECO-RADAR ────────────────────────┐
+│                                    │
+│  sensor → data → interface         │
+│                                    │
+│  collecting environmental data...  │
+│  visualizing information...        │
+│                                    │
+│  status: ONLINE                    │
+│                                    │
+└────────────────────────────────────┘
+```
 
 </div>
 
@@ -128,7 +146,9 @@ The goal is simple:
 
 <br>
 
-✦
+```text
+> translating data into ideas...
+```
 
 </div>
 
@@ -182,7 +202,9 @@ UI/UX · Web
 
 <br><br>
 
-**build · explore · learn · repeat**
+```text
+build() → explore() → learn() → repeat()
+```
 
 <br><br>
 
