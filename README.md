@@ -27,7 +27,7 @@
 
 </div>
 
-<br>
+<br align="center">
 
 I'm a **Computer Science undergraduate** interested in the intersection between **software, design and technology**.
 
@@ -67,7 +67,7 @@ Currently building my foundation in software while exploring **Python, Java, Web
 
 </div>
 
-<br>
+<br align="center">
 
 ### ABOUT THE PROJECT
 
