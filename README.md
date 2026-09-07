@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png/header1.svg" width="100%" alt="Rafael — Computer Science">
+<img src="./assets/header1.svg" width="100%" alt="Rafael — Computer Science">
 
 <br>
 
@@ -27,17 +27,19 @@
 
 </div>
 
-<br align="center">
-
-I'm a **Computer Science undergraduate** interested in the intersection between **software, design and technology**.
-I like understanding how things work, solving problems and turning ideas into things that actually exist.
-Currently building my foundation in software while exploring **Python, Java, Web Development, AI and UI/UX.**
-
 <br>
 
 <div align="center">
 
-`software` &nbsp;·&nbsp; `design` &nbsp;·&nbsp; `curiosity`
+I'm a **Computer Science undergraduate** interested in the intersection between **software, design and technology**.
+
+I like understanding how things work, solving problems and turning ideas into things that actually exist.
+
+Currently building my foundation in software while exploring **Python, Java, Web Development, AI and UI/UX.**
+
+<br><br>
+
+`software`  ·  `design`  ·  `curiosity`
 
 <br><br>
 
@@ -51,11 +53,7 @@ Currently building my foundation in software while exploring **Python, Java, Web
 
 ─────────────── ◌ ECO-RADAR ◌ ───────────────
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <sub>environmental monitoring · university project</sub>
 
@@ -65,13 +63,17 @@ Currently building my foundation in software while exploring **Python, Java, Web
 
 </div>
 
-<br align="center">
+<br>
+
+<div align="center">
 
 ### ABOUT THE PROJECT
 
 **Eco-Radar** is an environmental monitoring platform developed as a first university project.
 
 The project connects **Arduino hardware** with a web interface to collect and visualize environmental information.
+
+</div>
 
 <br>
 
@@ -106,7 +108,7 @@ The goal is simple:
 
 **SOFTWARE**
 
-`Python`  
+`Python`
 `HTML` · `CSS` · `JavaScript`
 
 </td>
@@ -118,7 +120,7 @@ The goal is simple:
 
 <div align="center">
 
-<img src="./assets/banner.png/divider.png/orbit.svg" width="160" alt="orbit">
+<img src="./assets/orbit.svg" width="160" alt="orbit">
 
 <br><br>
 
@@ -136,11 +138,7 @@ The goal is simple:
 
 ─────────────── ✦ NOW ✦ ───────────────
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=2400&pause=700&color=F4F1FA&center=true&vCenter=true&width=600&lines=learning+by+building;experimenting+with+interfaces;connecting+code+and+design;turning+small+ideas+into+real+projects" alt="What I'm building">
 
