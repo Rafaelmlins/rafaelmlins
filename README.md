@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header1.svg" width="100%" alt="Rafael — Computer Science">
+<img src="./assets/banner.png/header1.svg" width="100%" alt="Rafael — Computer Science">
 
 <br>
 
@@ -25,7 +25,11 @@
 
 ─────────────── ✦ ABOUT ME ✦ ───────────────
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 I'm a **Computer Science undergraduate** interested in the intersection between **software, design and technology**.
 
@@ -36,17 +40,6 @@ Currently building my foundation in software while exploring **Python, Java, Web
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2200&pause=700&color=C9B8FF&center=true&vCenter=true&width=500&lines=%3E+initializing+curiosity...;%3E+loading+software...;%3E+exploring+design...;%3E+system+ready." alt="Animated terminal">
-
-<br><br>
-
-```text
-const interests = [
-  "software",
-  "design",
-  "technology",
-  "curiosity"
-];
-```
 
 </div>
 
@@ -75,21 +68,6 @@ const interests = [
 **Eco-Radar** is an environmental monitoring platform developed as a first university project.
 
 The project connects **Arduino hardware** with a web interface to collect and visualize environmental information.
-
-<br>
-
-```text
-┌─ ECO-RADAR ────────────────────────┐
-│                                    │
-│  sensor → data → interface         │
-│                                    │
-│  collecting environmental data...  │
-│  visualizing information...        │
-│                                    │
-│  status: ONLINE                    │
-│                                    │
-└────────────────────────────────────┘
-```
 
 </div>
 
@@ -138,7 +116,7 @@ The goal is simple:
 
 <div align="center">
 
-<img src="./assets/orbit.svg" width="160" alt="orbit">
+<img src="./assets/banner.png/divider.png/corner-top-left.png/orbit.svg" width="160" alt="orbit">
 
 <br><br>
 
@@ -146,9 +124,7 @@ The goal is simple:
 
 <br>
 
-```text
-> translating data into ideas...
-```
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2200&pause=700&color=C9B8FF&center=true&vCenter=true&width=500&lines=%3E+translating+data+into+ideas...;%3E+turning+measurements+into+visuals...;%3E+making+information+visible..." alt="Animated code">
 
 </div>
 
@@ -202,9 +178,7 @@ UI/UX · Web
 
 <br><br>
 
-```text
-build() → explore() → learn() → repeat()
-```
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=1800&pause=600&color=C9B8FF&center=true&vCenter=true&width=460&lines=build();+%E2%86%92+explore();+%E2%86%92+learn();+%E2%86%92+repeat();;while+(curious)+%7B+keep+building();+%7D" alt="Code animation">
 
 <br><br>
 
