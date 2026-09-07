@@ -17,27 +17,17 @@
 <img src="https://img.shields.io/badge/WEB-0B0B10?style=flat-square&logo=html5&logoColor=C9B8FF">
 <img src="https://img.shields.io/badge/GIT-0B0B10?style=flat-square&logo=git&logoColor=C9B8FF">
 
+</div>
+
 <br><br>
 
-<sub>01 · INTRODUCTION</sub>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-# ✦ ABOUT ME
-
-<br>
-
-<sub>CODE · DESIGN · CURIOSITY</sub>
-
-</div>
+<table width="100%">
+<tr>
+<td width="42%"><hr></td>
+<td width="16%" align="center"><b>✦ ABOUT ME ✦</b></td>
+<td width="42%"><hr></td>
+</tr>
+</table>
 
 <br>
 
@@ -59,27 +49,23 @@ Currently building my foundation in software while exploring **Python, Java, Web
 
 </div>
 
-<br>
+<br><br>
 
-<div align="center">
-
-<sub>02 · FEATURED PROJECT</sub>
-
-</div>
-
-<br>
-
----
+<table width="100%">
+<tr>
+<td width="42%"><hr></td>
+<td width="16%" align="center"><b>◌ ECO-RADAR ◌</b></td>
+<td width="42%"><hr></td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
-# ◌ ECO-RADAR
+<sub>environmental monitoring · university project</sub>
 
-### environmental monitoring · university project
-
-<br>
+<br><br>
 
 <img src="./assets/ecoradar.gif" width="92%" alt="Eco-Radar animated interface">
 
@@ -150,25 +136,19 @@ The goal is simple:
 
 </div>
 
-<br>
+<br><br>
 
-<div align="center">
-
-<sub>03 · WHAT I'M UP TO</sub>
-
-</div>
-
-<br>
-
----
+<table width="100%">
+<tr>
+<td width="42%"><hr></td>
+<td width="16%" align="center"><b>✦ NOW ✦</b></td>
+<td width="42%"><hr></td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
-
-# ✦ NOW
-
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=2400&pause=700&color=F4F1FA&center=true&vCenter=true&width=600&lines=learning+by+building;experimenting+with+interfaces;connecting+code+and+design;turning+small+ideas+into+real+projects" alt="What I'm building">
 
@@ -179,13 +159,9 @@ The goal is simple:
 
 <td width="33%" align="center">
 
-**01**
-
-<br><br>
-
 `LEARNING`
 
-<br>
+<br><br>
 
 Python · AI
 
@@ -193,13 +169,9 @@ Python · AI
 
 <td width="33%" align="center">
 
-**02**
-
-<br><br>
-
 `BUILDING`
 
-<br>
+<br><br>
 
 Eco-Radar
 
@@ -207,13 +179,9 @@ Eco-Radar
 
 <td width="33%" align="center">
 
-**03**
-
-<br><br>
-
 `EXPLORING`
 
-<br>
+<br><br>
 
 UI/UX · Web
 
@@ -233,9 +201,5 @@ UI/UX · Web
 <br>
 
 ✦
-
-<br><br>
-
-<sub>04 · END</sub>
 
 </div>
