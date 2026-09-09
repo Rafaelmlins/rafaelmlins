@@ -12,16 +12,133 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/JAVA-0B0B10?style=flat-square&logo=openjdk&logoColor=C9B8FF">
-<img src="https://img.shields.io/badge/PYTHON-0B0B10?style=flat-square&logo=python&logoColor=C9B8FF">
-<img src="https://img.shields.io/badge/WEB-0B0B10?style=flat-square&logo=html5&logoColor=C9B8FF">
-<img src="https://img.shields.io/badge/GIT-0B0B10?style=flat-square&logo=git&logoColor=C9B8FF">
+<img src="https://img.shields.io/badge/JAVA-0B0B10?style=flat-square&logo=openjdk&logoColor=C9B8FF" alt="Java">
+<img src="https://img.shields.io/badge/PYTHON-0B0B10?style=flat-square&logo=python&logoColor=C9B8FF" alt="Python">
+<img src="https://img.shields.io/badge/WEB-0B0B10?style=flat-square&logo=html5&logoColor=C9B8FF" alt="Web">
+<img src="https://img.shields.io/badge/GIT-0B0B10?style=flat-square&logo=git&logoColor=C9B8FF" alt="Git">
 
 </div>
 
 <br><br>
 
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#0B0B10">
+
+<br>
+
+### ABOUT ME
+
+<br>
+
+I'm a **Computer Science undergraduate** interested in the intersection between **software, design and technology**.
+
+I like understanding how things work, solving problems and turning ideas into things that actually exist.
+
+Currently building my foundation in software while exploring **Python, Java, Web Development, AI and UI/UX.**
+
+<br>
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
 <div align="center">
+
+### CURRENTLY EXPLORING
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**CODE**
+
+Python · Java
+Algorithms · Logic
+
+</td>
+
+<td align="center" width="25%">
+
+**WEB**
+
+HTML · CSS
+Interfaces · UX
+
+</td>
+
+<td align="center" width="25%">
+
+**DESIGN**
+
+UI/UX · Visual Design
+Digital Experiences
+
+</td>
+
+<td align="center" width="25%">
+
+**IDEAS**
+
+AI · Technology
+Creative Projects
+
+</td>
+</tr>
+</table>
+
+<br>
+
+</div>
+
+<br><br>
+
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#0B0B10">
+
+<br>
+
+### PROJECTS
+
+<br>
+
+Things I'm building, studying and experimenting with.
+
+<br><br>
+
+<!-- projects -->
+
+<br>
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<div align="center">
+
+### LET'S CONNECT
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LINKEDIN-0B0B10?style=flat-square&logo=linkedin&logoColor=C9B8FF">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/EMAIL-0B0B10?style=flat-square&logo=gmail&logoColor=C9B8FF">
+</a>
+
+<br><br>
+
+</div>
+
 
 ─────────────── ✦ ABOUT ME ✦ ───────────────
 
