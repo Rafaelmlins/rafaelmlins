@@ -62,14 +62,13 @@
 
 </div>
 
-<table width="100%"> <tr>
+<table width="100%" background-color="A19F9F" > <tr>
 
 <td width="50%" align="center" bgcolor="#0B0B10">
 
 <h3>Eco Radar</h3>
 
 <p> Environmental monitoring project combining software, hardware and data. </p>
-
 </td>
 
 <td width="50%" align="center" bgcolor="#0B0B10">
