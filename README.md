@@ -32,7 +32,7 @@
 
 <br>
 
-<table width="100%"> <tr>
+<table align="center"> <tr>
 
 <td width="48%" bgcolor="#0B0B10" valign="top">
 
