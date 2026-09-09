@@ -62,7 +62,7 @@
 
 </div>
 
-<table width="100%" background-color="A19F9F" > <tr>
+<table width="100%" bgcolor="A19F9F" > <tr>
 
 <td width="50%" align="center" bgcolor="#0B0B10">
 
