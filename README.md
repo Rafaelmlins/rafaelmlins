@@ -18,7 +18,7 @@
 
 <br><br>
 
-<table align"center"> <tr width="100%"> <td bgcolor="#0B0B10">
+<table align="center"> <tr width="100%"> <td bgcolor="#0B0B10">
 
 <h2 align="center">✦ About me</h2>
 
