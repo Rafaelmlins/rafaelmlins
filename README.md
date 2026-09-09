@@ -73,9 +73,9 @@
 
 <td width="50%" align="center" bgcolor="#0B0B10">
 
-<h3>Calculadora</h3>
+<h3>Uniatmos</h3>
 
-<p> A simple project created while developing my programming fundamentals. </p>
+<p> . </p>
 
 </td>
 
