@@ -58,33 +58,6 @@
 
 <div align="center">
 
-<h2>✦ Projects</h2>
-
-</div>
-
-<table width="100%" bgcolor="A19F9F" > <tr>
-
-<td width="50%" align="center" bgcolor="#0B0B10">
-
-<h3>Eco Radar</h3>
-
-<p> Environmental monitoring project combining software, hardware and data. </p>
-</td>
-
-<td width="50%" align="center" bgcolor="#0B0B10">
-
-<h3>Uniatmos</h3>
-
-<p> . </p>
-
-</td>
-
-</tr> </table>
-
-<br>
-
-<div align="center">
-
 <h2>⌁ Let's connect</h2>
 
 <p> Always interested in learning, building and experimenting with new ideas. </p>
