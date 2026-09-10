@@ -1,65 +1,47 @@
-<div align="center">
+# Hi there, I'm Rafael 👋
 
-<img src="./assets/banner.png/header1.svg" width="100%" alt="Rafael — Computer Science">
+**Computer Science undergraduate building software at the intersection of code, design and technology.**
 
-<br>
+I'm interested in understanding how things work, solving problems and turning ideas into useful digital experiences.
 
-<img src="./assets/header.gif" width="100%" alt="Hi, I'm Rafael">
+## 🛠️ Tech Stack
 
-<br><br>
+**Languages**
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2800&pause=900&color=C9B8FF&center=true&vCenter=true&width=620&lines=software+%C2%B7+design+%C2%B7+curiosity;building+things+that+feel+useful;exploring+the+space+between+code+%26+design" alt="Animated text">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<br><br>
+**Web & Tools**
 
-<img src="https://img.shields.io/badge/JAVA-0B0B10?style=flat-square&logo=openjdk&logoColor=C9B8FF" alt="Java"> <img src="https://img.shields.io/badge/PYTHON-0B0B10?style=flat-square&logo=python&logoColor=C9B8FF" alt="Python"> <img src="https://img.shields.io/badge/WEB-0B0B10?style=flat-square&logo=html5&logoColor=C9B8FF" alt="Web"> <img src="https://img.shields.io/badge/GIT-0B0B10?style=flat-square&logo=git&logoColor=C9B8FF" alt="Git">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
+**Exploring**
 
-<br><br>
+AI · UI/UX · Web Development
 
-<table align="center"> <tr width="100%"> <td bgcolor="#0B0B10">
+## 📁 Featured Projects
 
-<h2 align="center">✦ About me</h2>
+- **[Eco Radar](#)** — Environmental monitoring project focused on collecting and presenting environmental data.  
+  `ESP32` `Sensors` `Web`
 
-<p align="center"> I'm a <strong>Computer Science undergraduate</strong> interested in the intersection between <strong>software, design and technology</strong>. </p>
+- **[UniAtmos](#)** — Academic project involving environmental sensors, data collection and a web interface.  
+  `ESP32` `Sensors` `Frontend` `Backend`
 
-<p align="center"> I like understanding how things work, solving problems and turning ideas into things that actually exist. </p>
+- **[Calculator](#)** — A simple programming project developed while building my foundations in Python.  
+  `Python`
 
-<p align="center"> Currently building my foundation in software while exploring <strong>Python, Java, Web Development, AI and UI/UX.</strong> </p>
+## 🎯 Currently
 
-</td> </tr> </table>
+- 📚 Strengthening my foundations in programming and computer science
+- 🚀 Building projects with Python, Java and web technologies
+- 🎨 Exploring the intersection between software development and UI/UX
 
-<br>
+## 📊 GitHub Stats
 
-<table align="center"> <tr>
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelmlins&show_icons=true&hide_title=true)
 
-<td width="48%" bgcolor="#0B0B10" valign="top">
+## 🤝 Let's Connect
 
-<h3 align="center">⌁ Currently exploring</h3>
-
-<p align="center"> Python<br> Java<br> Web Development<br> Artificial Intelligence<br> UI/UX </p>
-
-</td>
-
-<td width="4%"></td>
-
-<td width="48%" bgcolor="#0B0B10" valign="top">
-
-<h3 align="center">⌁ Interests</h3>
-
-<p align="center"> Software<br> Design<br> Creative Technology<br> Problem Solving<br> Digital Experiences </p>
-
-</td>
-
-</tr> </table>
-
-<br>
-
-<div align="center">
-
-<h2>⌁ Let's connect</h2>
-
-<p> Always interested in learning, building and experimenting with new ideas. </p>
-
-</div>
+[GitHub](https://github.com/Rafaelmlins) · [LinkedIn](#)
