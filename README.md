@@ -39,3 +39,7 @@ AI · UI/UX · Web Development
 ## 🤝 Let's Connect
 
 [GitHub](https://github.com/Rafaelmlins) · [LinkedIn](https://linkedin.com/in/rafaelmlinsp)
+
+<figure><embed src="https://wakatime.com/share/@5e9af686-2ca4-4dd5-85b3-16f8ee46e0fd/5394c9be-d34f-4f34-81d3-dac8a845d4d2.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@5e9af686-2ca4-4dd5-85b3-16f8ee46e0fd/d1beebf5-3878-475d-9ecc-40c77fa19566.svg"></embed></figure>
