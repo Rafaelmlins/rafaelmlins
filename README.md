@@ -38,4 +38,4 @@ AI · UI/UX · Web Development
 
 ## 🤝 Let's Connect
 
-[GitHub](https://github.com/Rafaelmlins) · [LinkedIn](#)
+[GitHub](https://github.com/Rafaelmlins) · [LinkedIn](#www.linkedin.com/in/rafaelmlinsp)
