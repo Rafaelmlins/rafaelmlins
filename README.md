@@ -8,14 +8,14 @@ I'm interested in understanding how things work, solving problems and turning id
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0B0B10?style=flat-square&logo=python&logoColor=C9B8FF)
+![Java](https://img.shields.io/badge/Java-0B0B10?style=flat-square&logo=openjdk&logoColor=C9B8FF)
 
 **Web & Tools**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0B0B10?style=flat-square&logo=html5&logoColor=C9B8FF)
+![CSS3](https://img.shields.io/badge/CSS3-0B0B10?style=flat-square&logo=css3&logoColor=C9B8FF)
+![Git](https://img.shields.io/badge/Git-0B0B10?style=flat-square&logo=git&logoColor=C9B8FF)
 
 **Exploring**
 
@@ -26,12 +26,6 @@ AI · UI/UX · Web Development
 - **[Eco Radar](#)** — Environmental monitoring project focused on collecting and presenting environmental data.  
   `ESP32` `Sensors` `Web`
 
-- **[UniAtmos](#)** — Academic project involving environmental sensors, data collection and a web interface.  
-  `ESP32` `Sensors` `Frontend` `Backend`
-
-- **[Calculator](#)** — A simple programming project developed while building my foundations in Python.  
-  `Python`
-
 ## 🎯 Currently
 
 - 📚 Strengthening my foundations in programming and computer science
@@ -40,7 +34,7 @@ AI · UI/UX · Web Development
 
 ## 📊 GitHub Stats
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelmlins&show_icons=true&hide_title=true)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelmlins&show_icons=true&hide_title=true&title_color=C9B8FF&icon_color=C9B8FF&text_color=FFFFFF&bg_color=0B0B10)
 
 ## 🤝 Let's Connect
 
